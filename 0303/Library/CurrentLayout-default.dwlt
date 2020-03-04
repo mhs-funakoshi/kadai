@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 0
 --- !u!114 &2
@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 1840
     height: 916
-  m_MinSize: {x: 677, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 100
+  controlID: 42
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 541
     height: 916
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 324
     height: 553
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -216,10 +216,10 @@ MonoBehaviour:
     y: 0
     width: 1299
     height: 916
-  m_MinSize: {x: 402, y: 492}
+  m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 16
+  controlID: 43
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -241,10 +241,10 @@ MonoBehaviour:
     y: 0
     width: 1299
     height: 553
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 17
+  controlID: 44
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,14 +344,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\owner\Desktop\Unity\0303kadai
+  m_LastProjectPath: C:\Users\owner\Desktop\Unity\kadai\0303
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a3d0000
-    m_LastClickedID: 15722
-    m_ExpandedIDs: 000000006a3d000000ca9a3b
+    m_SelectedIDs: 6e340000
+    m_LastClickedID: 13422
+    m_ExpandedIDs: 000000006e34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000006e340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -504,7 +504,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 94c5ffffa6c5ffffa8c5ffffacc5ffff10c6ffff2cc7ffff54c7ffff66c7ffff68c7ffff6cc7ffff6ad1ffff7cd1ffff14d2ffff1ed2ffff94ddffff2ae8ffffb2eefffff8eeffff46f0ffff60f1ffff8ef1ffff58faffff72faffff26fbfffffa4100000c4200006e450000ac4f0000d84f0000e44f0000f64f0000f0510000025200007852000084520000
+      m_ExpandedIDs: 80f7ffff92f7ffff94f7ffff98f7ffffdcf7ffff12f8ffff5ef8ffff82f8ffff94f8ffff28f9ffff2ef9ffff6cfbffff20340000b83700004c3800008a380000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -618,7 +618,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 1751.4873
     speed: 2
-    m_Value: 1676.0645
+    m_Value: 1751.4873
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -712,20 +712,20 @@ MonoBehaviour:
       y: 21
       width: 973
       height: 511
-    m_Scale: {x: 0.26882797, y: 0.26882797}
-    m_Translation: {x: 486.5, y: 254.04594}
+    m_Scale: {x: 0.27708334, y: 0.27708334}
+    m_Translation: {x: 486.5, y: 254.04596}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1809.7075
-      y: -945.01306
-      width: 3619.415
-      height: 1900.8439
+      x: -1755.7894
+      y: -916.8576
+      width: 3511.5789
+      height: 1844.2104
     m_MinimalGUI: 1
-  m_defaultScale: 0.26614583
+  m_defaultScale: 0.27708334
   m_LastWindowPixelSize: {x: 973, y: 532}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
